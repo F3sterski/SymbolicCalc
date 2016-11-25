@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="F:\Nauka\SymbolicCalc\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="F:\Nauka\SymbolicCalc\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_3c96f8acb1fdb08a84bc9626599e9cd0e643d5a8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Nauka\SymbolicCalc\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5d1761d4e1af3d00438c4369511381e3d1f0cec5">
+        <dex dex="F:\Nauka\SymbolicCalc\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_d9e29d2a19374b62a6a1127dfb56b4434e5ca2ee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Nauka\SymbolicCalc\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="F:\Nauka\SymbolicCalc\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_629764211e757a0eb844bba772562d8aa823ecd5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Nauka\SymbolicCalc\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="F:\Nauka\SymbolicCalc\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_995da782cd11034daa7a8340c207c79354eb1db8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Nauka\SymbolicCalc\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="F:\Nauka\SymbolicCalc\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_6f01b6204b0e48de31a2528f93081aa45322fb60\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Nauka\SymbolicCalc\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="F:\Nauka\SymbolicCalc\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_24c6d0324d764c07c981c97f1a864cdfdc817241\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Nauka\SymbolicCalc\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="F:\Nauka\SymbolicCalc\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_5fe00ac6a350b4d03ddcca665f91e3d346801805\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Nauka\SymbolicCalc\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="F:\Nauka\SymbolicCalc\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_de167b2870ff70ef93d147666bd03803286bcf39\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Nauka\SymbolicCalc\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="F:\Nauka\SymbolicCalc\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_e74d1d12ea1b2f202f5b4a2a1cb5309f63e0c6d4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Nauka\SymbolicCalc\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="F:\Nauka\SymbolicCalc\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_a2d5861c38f27f3cbdb71e2357ec4499d388097a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\szkol_000\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="F:\Nauka\SymbolicCalc\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_3b64bb4b4ccce3c510235008fa273dfa90e48b58\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Nauka\SymbolicCalc\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="F:\Nauka\SymbolicCalc\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_3b9b38be611a8663dffa06c8ff3636b31341ee7f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Nauka\SymbolicCalc\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="F:\Nauka\SymbolicCalc\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_06ab08c05028138e43056433f12093955a2b2e5e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Nauka\SymbolicCalc\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="F:\Nauka\SymbolicCalc\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_ef6f3929a075f305b1b571523b6bd03dacd406a7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Nauka\SymbolicCalc\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="F:\Nauka\SymbolicCalc\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_2b827deac13eeafbd59e5cf887614157c0a7c3f3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Nauka\SymbolicCalc\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="F:\Nauka\SymbolicCalc\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_8d201bfb5bdbf327df1865b443ca0e7c2f14fab6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Nauka\SymbolicCalc\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="af977285bdf3429e76eb3f63fa390ea7dd618922">
+        <dex dex="F:\Nauka\SymbolicCalc\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_34f48b16693f5a39d67a89c420ca8e78c409fef4\classes.dex" />
+    </item>
+
+</items>
